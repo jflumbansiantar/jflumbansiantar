@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jflumbansiantar
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Azure and NodeJS
+- 🌱 I’m currently learning NodeJS
 - 📫 How to reach me ? LinkedIn : https://www.linkedin.com/in/julia-fransiska-lumbansiantar-781210126/
 
 <!---
